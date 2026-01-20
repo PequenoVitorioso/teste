@@ -6,11 +6,15 @@ OI
 
 fsadfsdfaa
 
-
 tchau
 
 
 int x = 10;
-int y = 20; 
+int y = 30; 
 int z = x + y;
 console.log(z);
+
+teste
+
+
+vou embora
